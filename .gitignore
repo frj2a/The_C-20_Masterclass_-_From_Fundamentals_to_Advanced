@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Specific
+Slides
+Slides-Single_zip.rar
