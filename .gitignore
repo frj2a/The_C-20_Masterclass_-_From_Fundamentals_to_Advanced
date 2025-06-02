@@ -34,3 +34,5 @@
 # Specific
 Slides
 Slides-Single_zip.rar
+*.ilk
+*.pdb
