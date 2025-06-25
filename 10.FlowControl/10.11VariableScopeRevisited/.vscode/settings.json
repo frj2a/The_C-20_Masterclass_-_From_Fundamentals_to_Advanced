@@ -2,5 +2,6 @@
     "files.associations": {
         "iostream": "cpp",
         "vector": "cpp"
-    }
+    },
+    "files.eol": "\n"
 }
